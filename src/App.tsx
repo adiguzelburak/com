@@ -1,7 +1,7 @@
-import { ComponentExample } from "@/components/component-example";
+import { RFMApp } from "@/components/rfm-app";
 
 export function App() {
-return <ComponentExample />;
+    return <RFMApp />;
 }
 
 export default App;
