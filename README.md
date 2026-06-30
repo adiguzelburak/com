@@ -1,5 +1,5 @@
 # RFM Segmentation Interface
-
+ 
 A React-based customer segmentation dashboard using RFM (Recency, Frequency, Monetary) analysis.
 
 ## 🎯 Features
